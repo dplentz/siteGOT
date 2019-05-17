@@ -1,6 +1,9 @@
 h2 {
   font-family:trajan pro  ;
 }
-h1{
+h1 {
   font-family:trajan pro ;
+}
+tr:hover {
+  background-color: #eee9e9;
 }
