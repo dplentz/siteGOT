@@ -1,8 +1,10 @@
 h2 {
-  font-family:trajan pro  ;
+  font-family:trajan pro ;
+  color: #eee9e9
 }
 h1{
-  font-family:trajan pro ;
+  font-family:trajan pro;
+  color: #eee9e9
 }
 
 div { width: 70%; height: 70%;  }
