@@ -1,13 +1,18 @@
+
 h2 {
   font-family:trajan pro ;
-  color: #eee9e9
 }
-h1{
+h1 {
   font-family:trajan pro;
-  color: #eee9e9
 }
-
 div { width: 70%; height: 70%;  }
 tr:hover {
   background-color: #eee9e9;
 }
+#lannister { color:black;}
+#greyjoy { color:white;}
+#stark {color:white;}
+#tarly { color:white;}
+#clegane { color:white;}
+#tully { color: #27408b;}
+#baratheon { color:#8b0000}
