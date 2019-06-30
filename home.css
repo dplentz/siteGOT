@@ -5,7 +5,27 @@ h2 {
 h1 {
   font-family:trajan pro;
 }
-div { width: 70%; height: 70%;  }
+#slides {
+width: 40%;
+float:left;  }
+#curiosidades1 {
+width: 59%;
+float: right
+}
+#curiosidades2 {
+width: 59%;
+float: right;
+height: 440px;
+overflow-y:scroll
+
+}
+#dropdownMenuButton {
+  background-color:#f5f5f5;
+  color:#000000;
+  border: none;
+}
+
+
 tr:hover {
   background-color: #eee9e9;
 }
