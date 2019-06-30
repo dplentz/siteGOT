@@ -3,3 +3,12 @@
   color:#000000;
   border: none;
 }
+h2 {
+  font-family:trajan pro  ;
+}
+h1{
+  font-family:trajan pro ;
+}
+tr:hover {
+  background-color: #eee9e9;
+}
