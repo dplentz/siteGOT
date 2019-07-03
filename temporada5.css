@@ -1,3 +1,22 @@
+#teaser {
+width: 49%;
+float:left;  }
+#resumo {
+width: 49%;
+float: right;
+}
+#melhor {
+width: 49%;
+float: left;  }
+#valar {
+width: 49%;
+float: right;
+}
+#dropdownMenuButton {
+  background-color:#f5f5f5;
+  color:#000000;
+  border: none;
+}
 h2 {
   font-family:trajan pro  ;
 }
@@ -6,9 +25,4 @@ h1{
 }
 tr:hover {
   background-color: #eee9e9;
-}
-#dropdownMenuButton {
-  background-color:#f5f5f5;
-  color:#000000;
-  border: none;
 }
