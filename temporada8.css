@@ -8,10 +8,15 @@ float: right
 #melhor {
 width: 49%;
 float:left;  }
+
 #valar {
-width: 49%;
-float: right
+width: 50%;
+float: right;
+height: 500px;
+overflow-y:scroll
 }
+
+
 #dropdownMenuButton {
   background-color:#f5f5f5;
   color:#000000;
